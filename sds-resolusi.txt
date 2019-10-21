@@ -1,0 +1,4 @@
+SDS resolusi
+-konsisten membuat program remote system
+-membuat platform untuk pengelolaan remote
+-membuat device remote
